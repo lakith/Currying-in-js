@@ -1,4 +1,4 @@
-# curring-in-js
+# Currying-in-js
 
 if you take a look at the inner function (function that holds c as param) b and a are closures to that function. 
 whan you call saywhat it will return a function. 
